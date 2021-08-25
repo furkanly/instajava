@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385116482781",
+    "project_id": "instajava-20c58",
+    "storage_bucket": "instajava-20c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385116482781:android:b08e76e16cb9d34e913f34",
+        "android_client_info": {
+          "package_name": "com.furkan.instajava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385116482781-onjej4j68ahd4dn4kbqt87rma95t6kif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8fOoJFnukeqVqv9CXfmUWP6fkWSaPzzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385116482781-onjej4j68ahd4dn4kbqt87rma95t6kif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
